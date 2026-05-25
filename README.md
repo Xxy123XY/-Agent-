@@ -219,10 +219,4 @@ streamlit run app.py
 - 扩展更多 MCP 工具，如公司研究、题目去重、简历 diff 等
 - 增加更完整的运行观测能力，如节点级耗时和错误分类
 
-## 适合写在简历上的关键词
 
-`LangGraph` `LangChain` `Streamlit` `ChromaDB` `RAG` `MCP` `Multi-Agent` `Supervisor Routing` `Vector Retrieval` `TF-IDF` `RRF` `OpenAI-compatible API`
-
-## License
-
-如果你准备公开仓库，建议补充 `MIT` 或 `Apache-2.0` 许可证文件。
