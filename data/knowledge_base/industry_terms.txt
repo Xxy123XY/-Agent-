@@ -1,0 +1,30 @@
+# ============================================================
+# 行业术语与关键词库 —— 用于 RAG 检索
+# 涵盖 IT 互联网、金融、制造业、咨询等行业的高频术语
+# ============================================================
+
+## IT / 互联网
+微服务架构、分布式系统、高并发、消息队列、Kubernetes、Docker、CI/CD、DevOps、
+敏捷开发、Scrum、TDD（测试驱动开发）、DDD（领域驱动设计）、系统设计、
+RESTful API、GraphQL、gRPC、WebSocket、负载均衡、容灾、数据一致性、
+CAP 理论、BASE 理论、最终一致性、分库分表、读写分离、缓存穿透、
+Redis、MySQL、PostgreSQL、MongoDB、Elasticsearch、Kafka、RabbitMQ、
+React、Vue.js、TypeScript、Node.js、Next.js、微前端、Serverless、
+AWS、Azure、GCP、Terraform、Ansible、监控告警、可观测性、链路追踪
+
+## 金融 / Fintech
+风控模型、信用评分卡、反欺诈、供应链金融、支付清算、核心系统、
+量化交易、FIX 协议、直通式处理（STP）、资产负债管理、巴塞尔协议、
+AML（反洗钱）、KYC（了解你的客户）、监管报送、数据治理、隐私计算、
+联邦学习、区块链、智能合约、数字货币、开放银行 API
+
+## 制造业 / 工业互联网
+MES（制造执行系统）、ERP、PLM、SCADA、工业物联网（IIoT）、
+数字孪生、预测性维护、OEE（设备综合效率）、智能制造、
+APS（高级计划排程）、WMS（仓储管理系统）、TMS（运输管理系统）、
+精益生产、六西格玛、SPC（统计过程控制）、FMEA
+
+## 咨询 / 通用
+商业分析、需求分析、利益相关者管理、项目管理、PMP、PRINCE2、
+变更管理、流程优化、RACI 矩阵、SWOT 分析、PEST 分析、
+数据分析、数据挖掘、商业智能（BI）、数据看板、OKR、KPI

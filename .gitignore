@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv/
+venv/
+
+# Streamlit / logs
+.streamlit/
+*.log
+
+# Local data and caches
+data/chroma_store/
+data/interview_question_bank/
+data/memory_store/
+data/uploads/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
