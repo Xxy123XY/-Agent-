@@ -206,10 +206,6 @@ streamlit run app.py
 
 这样最容易体现这个项目的多 Agent 架构和上下文增强能力。
 
-## 相关文档
-
-- 面试问答整理：[docs/agent_interview_qa.md](docs/agent_interview_qa.md)
-- 打印版问答文档：`docs/agent_interview_qa_print_v2.docx`
 
 ## 后续可优化方向
 
